@@ -1,1 +1,2 @@
-# reach-for-the-trees
+# Reach for the Trees
+My personal website using Ruby on Rails for the back-end and React.js for the front-end. Here, I collect my projects, passions, and pursuits and display them in a way that illustrates my growth as a person and as a programmer!
